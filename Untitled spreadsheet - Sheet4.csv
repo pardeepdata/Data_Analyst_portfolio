@@ -1,0 +1,11 @@
+orderid,customer,city,product,qty,price,total sales,bonus 1,bonus 2,bonus 3,city,SUM of total sales,CUSTOMER,SALES,ID,NAME,department,salary,search id,sales
+1001,ali,milan,laptop,2,500,1000,pass,pass,pass,milan,1060,ali,1000,101,ALI,HR,2500,3,1000
+1002,sara,rome,phone,1,700,700,pass,fail,pass,rome,800,sara,700,102,SARA,IT,3000,AMRIT,700
+1003,ali,milan,mouse,3,20,60,fail,fail,fail,turin,500,john,500,103,JOHN,finace,3500,3000,500
+1004,john,turin,laptop,1,500,500,fail,fail,fail,Grand Total,2360,ali,60,104,AMRIT,sales,2800,finace,60
+1005,SARA,rome,mouse,5,20,100,fail,fail,pass,,,sara,100,,,,,,100
+,,,,5,1740,,,,,,,5,2360,,,,,,
+employeeid,,,,,348,,,,,,,,472,,,,,,
+,,,,,,,,,,,,,1000,,,,,,
+,,,,,,,,,,,,,60,,,,,,
+,,,,,,,,,,,,,5,,,,,,
