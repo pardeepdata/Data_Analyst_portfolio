@@ -22,3 +22,47 @@ This is a complete Data Analysis Portfolio Project that demonstrates the end-to-
 🚀 How to View This Project
  You can download the ⁠.pbix⁠ files from this repository and open them in Power BI Desktop to explore the interactive dashboard.
  You can view the layout and visual presentation directly through the saved screenshots (⁠SALES_DASBOARD1.PNG⁠) in the repository.
+
+
+
+
+## HR Employee Analytics
+
+### Project Overview
+
+This project analyzes employee data to understand workforce patterns, salary trends, job satisfaction, and employee attrition.
+
+### Tools Used
+
+- Google Sheets / Excel
+
+- Power BI
+
+- DAX
+
+### Analysis
+
+- Total Employees
+
+- Average Salary
+
+- Average Age
+
+- Average Experience
+
+- Job Satisfaction
+
+- Attrition Rate
+
+- Department-wise Employee Analysis
+
+- Department-wise Salary Analysis
+
+### Key Objective
+
+To analyze HR data and identify useful workforce insights that can support data-driven decision making.
+
+### Project Type
+
+Portfolio Project – HR Analytics
+
